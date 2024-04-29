@@ -1,0 +1,15 @@
+E:\Route\Back-end\4 Advanced C #\Demoes\Event Solution\Event\bin\Debug\net6.0\Event.exe
+E:\Route\Back-end\4 Advanced C #\Demoes\Event Solution\Event\bin\Debug\net6.0\Event.deps.json
+E:\Route\Back-end\4 Advanced C #\Demoes\Event Solution\Event\bin\Debug\net6.0\Event.runtimeconfig.json
+E:\Route\Back-end\4 Advanced C #\Demoes\Event Solution\Event\bin\Debug\net6.0\Event.dll
+E:\Route\Back-end\4 Advanced C #\Demoes\Event Solution\Event\bin\Debug\net6.0\Event.pdb
+E:\Route\Back-end\4 Advanced C #\Demoes\Event Solution\Event\obj\Debug\net6.0\Event.csproj.AssemblyReference.cache
+E:\Route\Back-end\4 Advanced C #\Demoes\Event Solution\Event\obj\Debug\net6.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\4 Advanced C #\Demoes\Event Solution\Event\obj\Debug\net6.0\Event.AssemblyInfoInputs.cache
+E:\Route\Back-end\4 Advanced C #\Demoes\Event Solution\Event\obj\Debug\net6.0\Event.AssemblyInfo.cs
+E:\Route\Back-end\4 Advanced C #\Demoes\Event Solution\Event\obj\Debug\net6.0\Event.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\4 Advanced C #\Demoes\Event Solution\Event\obj\Debug\net6.0\Event.dll
+E:\Route\Back-end\4 Advanced C #\Demoes\Event Solution\Event\obj\Debug\net6.0\refint\Event.dll
+E:\Route\Back-end\4 Advanced C #\Demoes\Event Solution\Event\obj\Debug\net6.0\Event.pdb
+E:\Route\Back-end\4 Advanced C #\Demoes\Event Solution\Event\obj\Debug\net6.0\Event.genruntimeconfig.cache
+E:\Route\Back-end\4 Advanced C #\Demoes\Event Solution\Event\obj\Debug\net6.0\ref\Event.dll

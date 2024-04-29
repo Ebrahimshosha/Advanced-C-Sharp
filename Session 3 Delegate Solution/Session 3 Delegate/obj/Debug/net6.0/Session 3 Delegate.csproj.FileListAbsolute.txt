@@ -1,0 +1,15 @@
+E:\Route\Back-end\4 Advanced C #\Demoes\Session 3 Delegate Solution\Session 3 Delegate\bin\Debug\net6.0\Session 3 Delegate.exe
+E:\Route\Back-end\4 Advanced C #\Demoes\Session 3 Delegate Solution\Session 3 Delegate\bin\Debug\net6.0\Session 3 Delegate.deps.json
+E:\Route\Back-end\4 Advanced C #\Demoes\Session 3 Delegate Solution\Session 3 Delegate\bin\Debug\net6.0\Session 3 Delegate.runtimeconfig.json
+E:\Route\Back-end\4 Advanced C #\Demoes\Session 3 Delegate Solution\Session 3 Delegate\bin\Debug\net6.0\Session 3 Delegate.dll
+E:\Route\Back-end\4 Advanced C #\Demoes\Session 3 Delegate Solution\Session 3 Delegate\bin\Debug\net6.0\Session 3 Delegate.pdb
+E:\Route\Back-end\4 Advanced C #\Demoes\Session 3 Delegate Solution\Session 3 Delegate\obj\Debug\net6.0\Session 3 Delegate.csproj.AssemblyReference.cache
+E:\Route\Back-end\4 Advanced C #\Demoes\Session 3 Delegate Solution\Session 3 Delegate\obj\Debug\net6.0\Session 3 Delegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\4 Advanced C #\Demoes\Session 3 Delegate Solution\Session 3 Delegate\obj\Debug\net6.0\Session 3 Delegate.AssemblyInfoInputs.cache
+E:\Route\Back-end\4 Advanced C #\Demoes\Session 3 Delegate Solution\Session 3 Delegate\obj\Debug\net6.0\Session 3 Delegate.AssemblyInfo.cs
+E:\Route\Back-end\4 Advanced C #\Demoes\Session 3 Delegate Solution\Session 3 Delegate\obj\Debug\net6.0\Session 3 Delegate.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\4 Advanced C #\Demoes\Session 3 Delegate Solution\Session 3 Delegate\obj\Debug\net6.0\Session 3 Delegate.dll
+E:\Route\Back-end\4 Advanced C #\Demoes\Session 3 Delegate Solution\Session 3 Delegate\obj\Debug\net6.0\refint\Session 3 Delegate.dll
+E:\Route\Back-end\4 Advanced C #\Demoes\Session 3 Delegate Solution\Session 3 Delegate\obj\Debug\net6.0\Session 3 Delegate.pdb
+E:\Route\Back-end\4 Advanced C #\Demoes\Session 3 Delegate Solution\Session 3 Delegate\obj\Debug\net6.0\Session 3 Delegate.genruntimeconfig.cache
+E:\Route\Back-end\4 Advanced C #\Demoes\Session 3 Delegate Solution\Session 3 Delegate\obj\Debug\net6.0\ref\Session 3 Delegate.dll
